@@ -11,3 +11,10 @@ li{
 .title--contact{
     float: right;
 }
+.header--title{
+    color:white;
+}
+a {
+    text-decoration: none;
+    color:grey;
+}
